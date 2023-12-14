@@ -1,6 +1,6 @@
 <h1>A copy of the original Zelda games with Dark soul elements</h1>
 
-![1](https://github.com/HassanMTS/Eclipsed/assets/150341521/765cb3a4-e1e0-48c8-a1d6-6b3f03a6b2ef)
+![1](https://github.com/HassanMTS/Eclipsed/assets/150341521/72483ed7-48c9-4dc1-a9cc-f1aa41cc3a4c)
 
 <h2>Conceptualization:</h2>
 
@@ -10,7 +10,7 @@
 
 <h3>Game Design:</h3>
 
-![2](https://github.com/HassanMTS/Eclipsed/assets/150341521/9f7c0761-5295-45e3-95d0-876acaed4ce0)
+![2](https://github.com/HassanMTS/Eclipsed/assets/150341521/d4f64174-3b62-4d45-b90e-3b9df0f949f9)
 
 ∗ Meticulously designed the game world by seamlessly integrating handpicked online assets, which contributed to diverse landscapes, dungeons, and captivating NPCs.
 
@@ -26,7 +26,7 @@
 
 <h4>Development:</h4>
 
-![3](https://github.com/HassanMTS/Eclipsed/assets/150341521/1b2294f5-a4f8-4c44-b48f-afc84ec634d8)
+![3](https://github.com/HassanMTS/Eclipsed/assets/150341521/dc27673f-9b43-40a6-bb79-7ab727d88488)
 
 ∗ Utilized pre-existing Python game development libraries and frameworks, leveraging online resources to accelerate coding processes.
 
