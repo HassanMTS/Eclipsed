@@ -1,0 +1,3 @@
+m0x3008y2432	Raccoons roam the land, they seem not to require sustainance. Their only goal in life, is to kill.
+m1x3008y2432	Raccoons are very peaceful creatures, if you ignore the fact that they try to kill every human in their sight.
+m2x1728y768	This shrine honors the soldiers fallen in battle during the great war between the green and red tribe. The war cost hundreds of lives, left many women as widows, children as orphans, and countless homeless.
